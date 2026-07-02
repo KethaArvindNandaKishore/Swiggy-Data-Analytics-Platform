@@ -1,3 +1,5 @@
+<img width="907" height="428" alt="image" src="https://github.com/user-attachments/assets/78de7467-0b99-45c0-8367-b509cc347e59" />
+
 # 📊 Swiggy Data Analytics Platform
 
 An end-to-end Business Intelligence and Data Analytics project built using **Microsoft Fabric**, **SQL**, and **Power BI** to analyze Swiggy's food delivery data. The project focuses on designing a modern analytics platform that transforms raw operational data into actionable business insights through automated ETL pipelines, interactive dashboards, and performance reporting.
